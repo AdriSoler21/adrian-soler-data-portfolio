@@ -112,5 +112,5 @@ I am particularly interested in roles related to:
 
 ## Contact
 
-- LinkedIn: add your LinkedIn URL
+- LinkedIn: https://www.linkedin.com/in/adrian-soler-carrera-/
 - GitHub: AdriSoler21
